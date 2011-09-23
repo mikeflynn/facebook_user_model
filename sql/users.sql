@@ -1,4 +1,4 @@
-CREATE TABLE headoftheclass.`users` (
+CREATE TABLE `users` (
   `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
   `fb_id` bigint(20) unsigned NOT NULL,
   `first_name` varchar(255) NOT NULL,
