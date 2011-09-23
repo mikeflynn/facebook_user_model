@@ -1,0 +1,9 @@
+Facebook User Model
+--------------------------------
+Author: Mike Flynn
+Date: 9.21.2011
+--------------------------------
+
+This is just a basic Facebook app framework I threw together for a hack-a-thon and figured it might be helpful to have it in one place to be reused by myself or others.
+
+It's written in PHP, and has some basic functionality as far as separate views and separated logic along with the user details import from Facebook.
