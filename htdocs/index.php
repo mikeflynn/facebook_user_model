@@ -1,7 +1,7 @@
 <?php
 # Settings
 define('BASE_URL', 'whatever.com');
-define('BASE_PATH', dir(__FILE__));
+define('BASE_PATH', dirname(__FILE__));
 
 define('DB_HOST', 'localhost');
 define('DB_USER', 'dbuser');
